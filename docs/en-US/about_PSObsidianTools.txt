@@ -1,0 +1,24 @@
+PSTOPIC
+  about_PSObsidianTools
+
+SHORT DESCRIPTION
+  PSObsidianTools is a PowerShell Core Module for working with Obsidian.md.
+
+LONG DESCRIPTION
+  PSObsidianTools is a PowerShell Core Module that provides a set of cmdlets and functions for managing and interacting with
+  the Obsidian.md Application Interface and API, specifically for interacting with Vaults.
+
+  Documentation for the Obsidian API (URI Protocol) can be found at https://help.obsidian.md/Concepts/Obsidian+URI.
+
+DETAILED DESCRIPTION
+  PSObsidianTools is a PowerShell Core Module that provides a set of cmdlets and functions for managing and interacting with
+  the Obsidian.md Application Interface and API, specifically for interacting with Vaults.
+
+  Documentation for the Obsidian API (URI Protocol) can be found at https://help.obsidian.md/Concepts/Obsidian+URI.
+
+  The module is designed to be used with PowerShell Core 7.0 or higher, and is primarily intended for use on Windows only.
+
+  The module is currently in early development, and is not yet ready for general use.
+
+  The module is currently being developed on GitHub at https://github.com/jimbrig/PSObsidianTools and published to the
+  PowerShell Gallery at https://www.powershellgallery.com/packages/PSObsidianTools.
