@@ -1,0 +1,58 @@
+# Ignore certain obsidian config files
+.obsidian/workspace.json
+
+# Ignore Vault Stats folder because it is updated frequently
+.vault-stats
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
+
+# Misc
+desktop.files.json
+
+# Temp/Archive/Trash
+.trash
+.archive
+temp
+tmp
+.tmp
+
+# Backups
+*.bak
+
+# Python
+.venv
+*.pyc
+
+# Node
+/node_modules
+/npm-debug.log
+
+# Cargo
+/target
+/src
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk

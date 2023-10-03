@@ -1,0 +1,58 @@
+{
+    "collapse-filter": false,
+    "search": "",
+    "showTags": true,
+    "showAttachments": true,
+    "hideUnresolved": false,
+    "showOrphans": true,
+    "collapse-color-groups": false,
+    "colorGroups": [
+        {
+            "query": "path:Code",
+            "color": {
+                "a": 1,
+                "rgb": 5429216
+            }
+        },
+        {
+            "query": "path:MOCs",
+            "color": {
+                "a": 1,
+                "rgb": 14725458
+            }
+        },
+        {
+            "query": "path:Inbox",
+            "color": {
+                "a": 1,
+                "rgb": 11657298
+            }
+        },
+        {
+            "query": "path:Templates",
+            "color": {
+                "a": 1,
+                "rgb": 14736466
+            }
+        },
+        {
+            "query": "path:Tools",
+            "color": {
+                "a": 1,
+                "rgb": 5431473
+            }
+        }
+    ],
+    "collapse-display": false,
+    "showArrow": false,
+    "textFadeMultiplier": 0,
+    "nodeSizeMultiplier": 1,
+    "lineSizeMultiplier": 1,
+    "collapse-forces": false,
+    "centerStrength": 0.734375,
+    "repelStrength": 10,
+    "linkStrength": 1,
+    "linkDistance": 250,
+    "scale": 0.1846232622585817,
+    "close": false
+}

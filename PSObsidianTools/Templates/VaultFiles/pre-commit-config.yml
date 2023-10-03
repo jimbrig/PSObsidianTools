@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/lkrimphove/pre-commit-hooks
+    rev: v0.1.4
+    hooks:
+      - id: parse-obsidian-links

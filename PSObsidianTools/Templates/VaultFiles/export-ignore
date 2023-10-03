@@ -1,0 +1,12 @@
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+*.csv
+*.txt
+
+Templates/*
+99-ARCHIVE/*

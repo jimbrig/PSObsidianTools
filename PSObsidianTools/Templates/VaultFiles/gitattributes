@@ -1,0 +1,22 @@
+# linguist - ignore HTML, JS, and Rich Text Format
+*.html linguist-vendored
+*.js linguist-vendored
+*.rtf linguist-vendored
+*.tex linguist-vendored
+*.bib linguist-vendored
+
+# Allow Markdown
+*.md linguist-detectable
+*.md linguist-language=Markdown
+
+# Allow R Markdown
+*.Rmd linguist-detectable
+*.Rmd linguist-language=RMarkdown
+
+# Allow YAML
+*.yml linguist-detectable
+*.yml linguist-language=YAML
+
+# Allow JSON
+*.json linguist-detectable
+*.json linguist-language=JSON

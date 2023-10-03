@@ -1,0 +1,10 @@
+{
+    "alwaysUpdateLinks": true,
+    "showUnsupportedFiles": true,
+    "showInlineTitle": false,
+    "livePreview": false,
+    "readableLineLength": false,
+    "showLineNumber": true,
+    "legacyEditor": false,
+    "promptDelete": false
+}

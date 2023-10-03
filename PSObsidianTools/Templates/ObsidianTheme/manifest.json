@@ -1,0 +1,8 @@
+{
+    "name": "{{ThemeName}}",
+    "version": "{{ThemeVersion}}",
+    "minAppVersion": "1.0.0",
+    "author": "@{{ThemeAuthorGithubUserName}}",
+    "authorUrl": "https://github.com/{{ThemeAuthorGithubUserName}}",
+    "fundingUrl": "{{ThemeFundingUrl}}"
+}

@@ -1,0 +1,28 @@
+{
+    "file-explorer:move-file": [
+        {
+            "modifiers": [
+                "Mod"
+            ],
+            "key": "M"
+        }
+    ],
+    "properties:open": [
+        {
+            "modifiers": [
+                "Alt",
+                "Mod"
+            ],
+            "key": "P"
+        }
+    ],
+    "obsidian-footnotes:insert-autonumbered-footnote": [
+        {
+            "modifiers": [
+                "Alt",
+                "Mod"
+            ],
+            "key": "F"
+        }
+    ]
+}

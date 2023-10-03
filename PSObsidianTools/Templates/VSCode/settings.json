@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "dataframe",
+    "dropna",
+    "fopen",
+    "openai",
+    "pythonmisc",
+    "ujjwal",
+    "xlclass",
+    "xlcomponent",
+    "xlform",
+    "xlmodule"
+  ],
+  "markdownlint.config": {
+    "default": true,
+    "MD012": false,
+    "MD013": false,
+    "MD025": false,
+    "MD033": false,
+    "MD034": false
+  },
+  "obsidian-code.vaultName": "{{VaultName}}",
+  "obsidianmd.excludedDirectories": [],
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.productIconTheme": "material-product-icons"
+}

@@ -7,4 +7,3 @@ PowerShell Core Module for working with Obsidian.md.
 ## Installation
 
 ## Examples
-
